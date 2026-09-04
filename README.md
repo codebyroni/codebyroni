@@ -21,7 +21,7 @@
 | :--- | :--- |
 | **Lenguajes & Frameworks** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Reflex](https://img.shields.io/badge/Reflex-6550b9?style=for-the-badge&logo=reflex&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 | **Bases de Datos & Cloud** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Turso](https://img.shields.io/badge/Turso-000000?style=for-the-badge&logo=turso&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
-| **Herramientas & Entorno** | ![uv](https://img.shields.io/badge/uv-DE5D83?style=for-the-badge&logo=uv&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| **Herramientas & Entorno** | ![uv](https://img.shields.io/badge/uv-DE5D83?style=for-the-badge&logo=uv&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/warp-181717?style=for-the-badge&logo=warp&logoColor=white)|
 
 ---
 
